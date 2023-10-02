@@ -22,12 +22,12 @@ import Avatar3 from '../src/assets/img/testimonial/avatar3.png';
 
 export const navData = [
   { href: '/', name: 'home' },
-  { href: '/', name: 'about' },
-  { href: '/', name: 'menu' },
-  { href: '/', name: 'team' },
-  { href: '/', name: 'testimonials' },
-  { href: '/', name: 'book a table' },
-  { href: '/', name: 'contact' },
+  { href: '#about', name: 'about' },
+  { href: '#menu', name: 'menu' },
+  { href: '#team', name: 'team' },
+  { href: '#testimonials', name: 'testimonials' },
+  { href: '#book', name: 'book a table' },
+  { href: '#contact', name: 'contact' },
 ];
 
 export const heroData = {

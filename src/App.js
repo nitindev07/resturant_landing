@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <div className='h-full max-w-[1800px] mx-auto overflow-hidden'>
+    <div className='h-full bg-pattern bg-repeat max-w-[1800px] mx-auto overflow-hidden'>
       <Hero />
       <About />
       <Menu />
